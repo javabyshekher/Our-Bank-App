@@ -8,4 +8,8 @@ public class Employee {
 		this.ename = ename;
 		this.sal = sal;
 	}
+
+	public int getEmpno() {
+		return empno;
+	}
 }
