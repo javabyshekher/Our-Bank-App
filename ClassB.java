@@ -18,4 +18,8 @@ public class ClassB {
 		// code
 	}
 
+	public void m5() {
+		// code
+	}
+
 }
