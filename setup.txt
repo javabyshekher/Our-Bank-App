@@ -1,0 +1,5 @@
+Login to AWS
+Create EC2 Machine
+Enable port
+Run the application
+Access the application
