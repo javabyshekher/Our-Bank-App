@@ -1,0 +1,3 @@
+create k8s cluster
+one master two workers
+deploy the application onto the cluster
